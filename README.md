@@ -2,7 +2,6 @@
 - 👀 I’m interested in furthering my data analystic skils
 - 🌱 I’m currently learning R and starting Python
 - 💞️ I’m looking to collaborate on anything where beginner skills could be useful
-- 📫 How to reach me ...
 - ⚡ Fun fact: Soccer, Music, Food
 
 <!---
